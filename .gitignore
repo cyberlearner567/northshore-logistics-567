@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+northshore.db
+northshore_audit.log
