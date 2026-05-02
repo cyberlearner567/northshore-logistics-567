@@ -1,0 +1,23 @@
+* bb08181 chore: add .gitignore for pyc, db, and log files
+*   b8271cf merge: operational reports complete
+|\  
+| * 18f74ad feat(reports): add operational reports dashboard with financials and status charts
+|/  
+*   fd7bcf0 merge: data security features complete
+|\  
+| * 8875ee3 feat(security): implement XOR field encryption and SHA-256 password hashing
+|/  
+*   41af357 merge: inventory management feature complete
+|\  
+| * b69eed7 feat(inventory): add inventory CRUD, reorder alerts, and multi-warehouse support
+|/  
+* 93d2e50 Initial commit: project structure and README
+
+bb081811d592f49ff210d1ee76e0ad3e75b0831f | 2026-05-02 | chore: add .gitignore for pyc, db, and log files
+b8271cfda1587159d0cb256511f424349eeabd57 | 2026-05-02 | merge: operational reports complete
+18f74ad504443dc9dfed8cd598106b4a83c9b5e3 | 2026-05-02 | feat(reports): add operational reports dashboard with financials and status charts
+fd7bcf05f97782278124acb8a9dfa7f436a52a1c | 2026-05-02 | merge: data security features complete
+8875ee31f7147e1c3468cb961d8f7c0b69b865b4 | 2026-05-02 | feat(security): implement XOR field encryption and SHA-256 password hashing
+41af357701d0d6736e2ebf18c7d1989a20d58bcf | 2026-05-02 | merge: inventory management feature complete
+b69eed750612706f817ca03a336a345f1ee0f43f | 2026-05-02 | feat(inventory): add inventory CRUD, reorder alerts, and multi-warehouse support
+93d2e50c8cee1d989d9d2cced7f85bd5a86d3f3c | 2026-05-02 | Initial commit: project structure and README
